@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "My Banking application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Ravindra Sandberg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "pg": "^8.11.1",
+    "react": "^18.2.0"
+  }
+}
